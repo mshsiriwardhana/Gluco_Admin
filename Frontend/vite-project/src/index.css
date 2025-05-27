@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add default dark mode styles */
+.dark {
+  @apply bg-gray-900 text-gray-100;
+}

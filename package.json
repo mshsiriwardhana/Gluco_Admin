@@ -1,0 +1,29 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.2.0",
+    "lucide-react": "^0.474.0",
+    "mongoose": "^8.9.6",
+    "multer": "^1.4.5-lts.1",
+    "react-router-dom": "^7.1.5",
+    "react-scroll": "^1.9.0",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
